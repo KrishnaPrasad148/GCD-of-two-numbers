@@ -31,7 +31,7 @@ gcd()
 ```
 
 ## Output:
-![Screenshot 2024-04-05 113649](https://github.com/KrishnaPrasad148/GCD-of-two-numbers/assets/147332763/fcf6802e-15c2-48ed-8528-e97fc4d9758d)
+![image](https://github.com/KrishnaPrasad148/GCD-of-two-numbers/assets/147332763/b55b1417-e0d6-498e-aa2b-029e80aa06c4)
 
 
 
